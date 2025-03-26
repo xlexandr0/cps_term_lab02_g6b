@@ -2,6 +2,6 @@ package pe.edu.tecsup.lab02;
 
 public class StudentReport {
     public void printReport() {
-        System.out.println("Soy Yashira");
+        System.out.println("Soy Yashira y estoy en sprint-1");
     }
 }
